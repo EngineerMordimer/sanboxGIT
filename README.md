@@ -1,1 +1,1 @@
-# sanboxBGIT z tekstem B
+# sanboxABGIT z tekstem A i B
